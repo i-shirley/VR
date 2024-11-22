@@ -234,14 +234,21 @@ var APP_DATA = {
           "target": "3-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+	    {
+          "yaw": 0.17456832723435944,
+          "pitch": -0.3604797197632976,
+          "title": "無尾熊",
+          "text": "<font color=\"#1f1f1f\" face=\"Arial, sans-serif\"><span style=\"font-size: 20px;\">無尾熊是在南半球澳洲大陸上著名的有袋目動物。 無尾熊屬於夜行性動物，牠們最愛吃新鮮桉（尤加利）樹的嫩枝葉。&nbsp;</span></font>"
+        }
+	  ]
     }
   ],
   "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true,
   }
 };
